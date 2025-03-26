@@ -66,23 +66,26 @@
         row-gap: 16px;
         column-gap: 24px;
             }
+
+
+
     .inside1_1 div:nth-child(1){
         border: 1px solid#123;
-        width: 246px;
+        width: 123px;
         height: 40px;
     }
     .inside1_1 div:nth-child(2){
         border: 1px solid#123;
-        width: 321px;
+        width: 246px;
         height: 40px;
     }
     .inside1_1 div:nth-child(3){
         border: 1px solid#123;
-        width: 246px;
+        width: 321px;
         height: 40px;
     }
     .inside1_1 div:nth-child(4){
         border: 1px solid#123;
-        width: 123px;
+        width: 246px;
         height: 40px;
     }
