@@ -73,7 +73,6 @@
         display: flex;
         justify-content: start;
         align-items: center;
-        border: 1px solid#123;
         width: 123px;
         height: 40px;
     }
@@ -81,7 +80,6 @@
         display: flex;
         justify-content: start;
         align-items: center;
-        border: 1px solid#123;
         width: 246px;
         height: 40px;
     }
@@ -89,15 +87,13 @@
         display: flex;
         justify-content: start;
         align-items: center;
-        border: 1px solid#123;
         width: 321px;
         height: 40px;
     }
     .pic4{
         display: flex;
         justify-content: start;
-        align-items: center;
-        border: 1px solid#123;
+        align-items: center;        
         width: 246px;
         height: 40px;
     }
@@ -105,4 +101,24 @@
     margin-left: 5px;
     font-family: Plus Jakarta Sans;
     font-size: 18px;
+}
+.inside1_2{
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;    
+    width: 373px;
+    height: 74px;
+}
+.pic5{
+    margin-right: 7px;
+    margin-top: 1px;
+}
+.text4{
+    font-family: Plus Jakarta Sans;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+.inside1_3{
+    margin-top: 5px;
 }
