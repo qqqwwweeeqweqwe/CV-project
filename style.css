@@ -26,7 +26,7 @@
 .mmm{
     margin: 64px 0px 72px 0px;
 }
-.inside1 div:nth-child(2){
+.text1{
     width: 371px;
     height: 44px;
     font-family: Plus Jakarta Sans;
@@ -39,7 +39,7 @@
     flex-shrink: 0;
 
 }
-.inside1 div:nth-child(3){
+.text2{
     font-family: Plus Jakarta Sans;
     font-size: 25px;
     width: 243px;
@@ -69,22 +69,22 @@
 
 
 
-    .inside1_1 div:nth-child(1){
+    .pic1{
         border: 1px solid#123;
         width: 123px;
         height: 40px;
     }
-    .inside1_1 div:nth-child(2){
+    .pic2{
         border: 1px solid#123;
         width: 246px;
         height: 40px;
     }
-    .inside1_1 div:nth-child(3){
+    .pic3{
         border: 1px solid#123;
         width: 321px;
         height: 40px;
     }
-    .inside1_1 div:nth-child(4){
+    .pic4{
         border: 1px solid#123;
         width: 246px;
         height: 40px;
