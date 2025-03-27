@@ -70,22 +70,39 @@
 
 
     .pic1{
+        display: flex;
+        justify-content: start;
+        align-items: center;
         border: 1px solid#123;
         width: 123px;
         height: 40px;
     }
     .pic2{
+        display: flex;
+        justify-content: start;
+        align-items: center;
         border: 1px solid#123;
         width: 246px;
         height: 40px;
     }
     .pic3{
+        display: flex;
+        justify-content: start;
+        align-items: center;
         border: 1px solid#123;
         width: 321px;
         height: 40px;
     }
     .pic4{
+        display: flex;
+        justify-content: start;
+        align-items: center;
         border: 1px solid#123;
         width: 246px;
         height: 40px;
     }
+.text3{
+    margin-left: 5px;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+}
