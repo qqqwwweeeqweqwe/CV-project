@@ -122,3 +122,14 @@
 .inside1_3{
     margin-top: 5px;
 }
+.inside2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+p{
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 5px;
+}
