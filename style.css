@@ -10,18 +10,15 @@
 .inside1 { 
     height: 765px;
     width: 390px;
-    border: 1px solid#123;
-}
+    }
 .inside2 { 
     height: 824px;
     width: 336px;
-    border: 1px solid#123;
-}
+    }
 .inside3 { 
     height: 696px;
     width: 362px;
-    border: 1px solid#123;
-}
+    }
 
 .mmm{
     margin: 64px 0px 72px 0px;
@@ -132,4 +129,36 @@ p{
     font-size: 16px;
     line-height: 1.6;
     margin: 5px;
+}
+.lines{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.text5{
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+}
+.text6{
+    display: block;
+    margin-bottom: 7px;
+}
+.circles { 
+    display: flex;
+    justify-content: space-between;
+}
+.text9{
+margin-top: 13px;
+}
+.pictures1{
+    margin-right: 12px;
+    margin-top: 12px;
+}
+.inside3{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }
