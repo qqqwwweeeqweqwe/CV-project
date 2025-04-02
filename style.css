@@ -1,4 +1,10 @@
-    
+    @font-face {
+        font-family: 'Plus_Jakarta_Sans';
+        src: url('font/PlusJakartaSans-VariableFont_wght.woff') format('woff');
+        font-style: normal;
+        font-weight: normal;
+    }
+
     
 .Vnesh { 
     display: flex;
@@ -26,7 +32,7 @@
 .text1{
     width: 371px;
     height: 44px;
-    font-family: Plus Jakarta Sans;
+    font-family: Plus_Jakarta_Sans;
     font-style: normal;
     font-size: 36px;
     font-weight: 700;
@@ -37,7 +43,7 @@
 
 }
 .text2{
-    font-family: Plus Jakarta Sans;
+    font-family: Plus_Jakarta_Sans;
     font-size: 25px;
     width: 243px;
     height: 33px;
@@ -96,7 +102,7 @@
     }
 .text3{
     margin-left: 5px;
-    font-family: Plus Jakarta Sans;
+    font-family: Plus_Jakarta_Sans;
     font-size: 18px;
 }
 .inside1_2{
@@ -111,10 +117,12 @@
     margin-top: 1px;
 }
 .text4{
-    font-family: Plus Jakarta Sans;
+    font-family: Plus_Jakarta_Sans;
     font-size: 30px;
     line-height: 1.2;
-    font-weight: 600;
+    font-weight: 700;
+    letter-spacing: 0.1;
+    
 }
 .inside1_3{
     margin-top: 5px;
@@ -125,7 +133,7 @@
     flex-direction: column;
 }
 p{
-    font-family: Plus Jakarta Sans;
+    font-family: Plus_Jakarta_Sans;
     font-size: 16px;
     line-height: 1.6;
     margin: 5px;
@@ -137,7 +145,7 @@ p{
     
 }
 .text5{
-    font-family: Plus Jakarta Sans;
+    font-family: Plus_Jakarta_Sans;
     font-size: 16px;
     font-weight: 500;
     line-height: 1;
